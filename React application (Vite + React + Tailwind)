@@ -1,0 +1,7 @@
+src/
+├── App.jsx
+├── components/
+│ ├── KanbanBoard.jsx
+│ ├── Column.jsx
+│ └── TaskCard.jsx
+└── index.css
